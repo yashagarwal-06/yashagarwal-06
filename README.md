@@ -16,4 +16,4 @@
 - Learning Web Development
 
 ## Connect With Me
-- LinkedIn: linkedin.com/in/yash-agarwal-61929b342
+- LinkedIn: https://www.linkedin.com/in/yash-agarwal-61929b342
