@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Yash Agarwal 👋
 
-<!--
-**yashagarwal-06/yashagarwal-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student at JIIT
 
-Here are some ideas to get you started:
+## Currently Learning
+- Data Structures & Algorithms
+- Python
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Movie Review Sentiment Analysis
+- Python Projects
+- DSA Practice
+
+## Goals
+- Improve problem-solving skills
+- Build real-world projects
+- Explore AI/ML and Web Development
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/yash-agarwal-61929b342
