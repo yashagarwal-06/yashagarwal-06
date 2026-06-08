@@ -7,6 +7,9 @@
 - Python
 - Web Development
 
+## Projects
+- Movie Review Sentiment Analysis
+
 ## Current Focus
 - Solving DSA problems regularly
 - Building Python projects
