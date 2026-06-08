@@ -7,10 +7,10 @@
 - Python
 - Web Development
 
-## Goals
-- Improve problem-solving skills
-- Build real-world projects
-- Explore AI/ML and Web Development
+## Current Focus
+- Solving DSA problems regularly
+- Building Python projects
+- Learning Web Development
 
 ## Connect With Me
 - LinkedIn: linkedin.com/in/yash-agarwal-61929b342
