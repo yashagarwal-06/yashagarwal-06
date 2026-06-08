@@ -7,11 +7,6 @@
 - Python
 - Web Development
 
-## Projects
-- Movie Review Sentiment Analysis
-- Python Projects
-- DSA Practice
-
 ## Goals
 - Improve problem-solving skills
 - Build real-world projects
