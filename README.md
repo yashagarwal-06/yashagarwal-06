@@ -8,7 +8,7 @@
 - Web Development
 
 ## Projects
-- Movie Review Sentiment Analysis
+- [Movie Review Sentiment Analysis](https://github.com/yashagarwal-06/movie-review-sentiment-analysis)
 
 ## Current Focus
 - Solving DSA problems regularly
