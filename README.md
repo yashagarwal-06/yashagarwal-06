@@ -21,6 +21,7 @@ I enjoy learning by building projects and continuously improving my problem-solv
 ### AI Fresher Hiring Selection Prediction Model
 
 Built a machine learning model using Logistic Regression to predict fresher hiring outcomes based on academic, technical, and professional attributes. 
+
 https://github.com/yashagarwal-06/AI-Fresher-Hiring-Selection-Prediction-Model
 
 ### Movie Review Sentiment Analysis
