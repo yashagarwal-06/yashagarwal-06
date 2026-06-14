@@ -18,21 +18,26 @@ I enjoy learning by building projects and continuously improving my problem-solv
 
 ## Projects
 
-### Personal Portfolio Website
+### AI Fresher Hiring Selection Prediction Model
 
-Built and deployed a personal portfolio website using HTML and CSS to showcase my education, skills, projects, and learning journey.
-https://github.com/yashagarwal-06/personal-portfolio
+Built a machine learning model using Logistic Regression to predict fresher hiring outcomes based on academic, technical, and professional attributes.
+https://github.com/yashagarwal-06/AI-Fresher-Hiring-Selection-Prediction-Model
 
 ### Movie Review Sentiment Analysis
 
-Performed sentiment analysis on IMDb movie reviews using Orange Data Mining and compared multiple machine learning models.
+Performed sentiment analysis on IMDb movie reviews using machine learning techniques and natural language processing concepts.
 https://github.com/yashagarwal-06/movie-review-sentiment-analysis
 
-### AI Fresher Hiring Selection Prediction Model
+### Customer Segmentation using Machine Learning
 
-Built a Logistic Regression model to predict candidate selection outcomes and performed Exploratory Data Analysis using histograms, boxplots, and correlation heatmaps.
+Applied K-Means Clustering to segment customers based on purchasing behavior and demographic characteristics.
+https://github.com/yashagarwal-06/Customer-Segmentation-Using-Machine-Learning
 
-https://github.com/yashagarwal-06/AI-Fresher-Hiring-Selection-Prediction-Model
+### Personal Portfolio Website
+
+Developed and deployed a personal portfolio website using HTML and CSS to showcase my education, skills, projects, and learning journey.
+https://github.com/yashagarwal-06/personal-portfolio
+
 
 ## Current Focus
 
