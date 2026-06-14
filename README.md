@@ -31,6 +31,7 @@ https://github.com/yashagarwal-06/movie-review-sentiment-analysis
 ### AI Fresher Hiring Selection Prediction Model
 
 Built a Logistic Regression model to predict candidate selection outcomes and performed Exploratory Data Analysis using histograms, boxplots, and correlation heatmaps.
+
 https://github.com/yashagarwal-06/AI-Fresher-Hiring-Selection-Prediction-Model
 
 ## Current Focus
