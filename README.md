@@ -24,17 +24,20 @@ Built a machine learning model using Logistic Regression to predict fresher hiri
 
 https://github.com/yashagarwal-06/AI-Fresher-Hiring-Selection-Prediction-Model
 
+
 ### Movie Review Sentiment Analysis
 
 Performed sentiment analysis on IMDb movie reviews using machine learning techniques and natural language processing concepts.
 
 https://github.com/yashagarwal-06/movie-review-sentiment-analysis
 
+
 ### Customer Segmentation using Machine Learning
 
 Applied K-Means Clustering to segment customers based on purchasing behavior and demographic characteristics.
 
 https://github.com/yashagarwal-06/Customer-Segmentation-Using-Machine-Learning
+
 
 ### Personal Portfolio Website
 
